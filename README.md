@@ -1,8 +1,16 @@
-# React + Vite
+# Eat-N-Split Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/15a42e38-83c0-4306-8f73-5312cadda483">
 
-Currently, two official plugins are available:
+This application is for spliting the bill when two friends eating together. In this project, I used some React main concept such as:
+1. useState and State Management
+2. Derived State
+3. Lifting up State
+4. Key props to reset the state
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The function of application are:
+1. add the friends
+2. select the friend who eats together
+3. input the total amount of bill
+4. input the amount which user wants to pay
+5. calculate automatically the amount which the friend have to pay
